@@ -90,6 +90,10 @@ body a {
   color: #77abd3;
 }
 
+.see_more a:hover {
+  color: white;
+}
+
 #contact {
   background-color: #5598cc;
   color: white;
