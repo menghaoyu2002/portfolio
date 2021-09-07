@@ -54,6 +54,7 @@ body a {
   flex-wrap: wrap;
   justify-content: center;
 }
+
 .project_container a {
   margin: 10px;
 }
@@ -68,11 +69,31 @@ body a {
   overflow: hidden;
 }
 
+.see_more {
+  text-align: center;
+  color: #77abd3;
+}
+
+#contact {
+  background-color: #5598cc;
+  color: white;
+  font-family: 'Urbanist', sans-serif;
+  font-size: 1.2rem;
+  text-align: center;
+  padding-top: 3%;
+  padding-bottom: 1%;
+}
+
+#contact a {
+  border: double white;
+  padding: 5px;
+}
+
 #about {
   text-align: center;
   text-align: left;
 }
 
 #projects {
-  margin-top: 130px;
+  margin-top: 50px;
 }
