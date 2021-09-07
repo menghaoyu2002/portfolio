@@ -20,7 +20,8 @@ body a {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh;
+  min-width: 100vw;
+  min-height: 100vh
   background-color: #5598cc;
   color: white;
   font-size: 2rem;
