@@ -75,6 +75,10 @@ body a {
   margin: 10px;
 }
 
+.project_card:hover {
+  color: #001a2e;
+}
+
 .project_card {
   background-color: #5598cc;
   color: white;
